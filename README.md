@@ -1,1 +1,1 @@
-# poem_classification_app
+# Project for bachelor work. Classification poem`s themes.
